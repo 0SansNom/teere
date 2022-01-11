@@ -4,9 +4,9 @@ function chillHop() {
     {
       name: "Bataaxal bu gudde nii",
       cover:
-        "https://drive.google.com/file/d/1lpHkM5503eEYBaCXil-_mvsfNvmlBHSM/view?usp=sharing",
+      "https://chillhop.com/wp-content/uploads/2020/09/0255e8b8c74c90d4a27c594b3452b2daafae608d-1024x1024.jpg",
       artist: "Mariyaama Ba",
-      audio: "https://drive.google.com/file/d/1P9CtuzbItNjSfPeejvrzQtrCI1maUH7T/view?usp=sharing",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10075",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
