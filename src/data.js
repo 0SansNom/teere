@@ -16,7 +16,7 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg",
       artist: "Xamu xa ko",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9272",
+      audio: "https://firebasestorage.googleapis.com/v0/b/teerey-af4b2.appspot.com/o/bataxal.mp3?alt=media&token=53ae883d-bb34-4e70-80a5-c7936a43de30",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
@@ -26,7 +26,7 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
       artist: "Nit la",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9222",
+      audio: "https://firebasestorage.googleapis.com/v0/b/teerey-af4b2.appspot.com/o/bataxal.mp3?alt=media&token=53ae883d-bb34-4e70-80a5-c7936a43de30",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
@@ -36,7 +36,7 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg",
       artist: "Ken Bind Ko",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9148",
+      audio: "https://firebasestorage.googleapis.com/v0/b/teerey-af4b2.appspot.com/o/bataxal.mp3?alt=media&token=53ae883d-bb34-4e70-80a5-c7936a43de30",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
@@ -46,7 +46,7 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
       artist: "Xara Fomm",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9228",
+      audio: "https://firebasestorage.googleapis.com/v0/b/teerey-af4b2.appspot.com/o/bataxal.mp3?alt=media&token=53ae883d-bb34-4e70-80a5-c7936a43de30",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
@@ -56,7 +56,7 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/09/0255e8b8c74c90d4a27c594b3452b2daafae608d-1024x1024.jpg",
       artist: "Nit la",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=10074",
+      audio: "https://firebasestorage.googleapis.com/v0/b/teerey-af4b2.appspot.com/o/bataxal.mp3?alt=media&token=53ae883d-bb34-4e70-80a5-c7936a43de30",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
