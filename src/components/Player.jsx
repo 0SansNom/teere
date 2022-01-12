@@ -98,13 +98,15 @@ const Player = ({
           }}
           className="track"
         >
-          <input
-            value={songInfo.currentTime}
-            type="range"
-            max={songInfo.duration || 0}
-            min={0}
-            onChange={dragHandler}
-          />
+          <label>
+            <input
+              value={songInfo.currentTime}
+              type="range"
+              max={songInfo.duration || 0}
+              min={0}
+              onChange={dragHandler}
+            />
+          </label>
           <div style={trackAnim} className="animate-track"></div>
         </div>
         <p>{songInfo.duration ? getTime(songInfo.duration) : "0:00"}</p>
@@ -133,7 +135,8 @@ const Player = ({
           icon={faVolumeDown}
         />
         {activeVolume && (
-          <input
+          <label>
+            <input
             onChange={changeVolume}
             value={songInfo.volume}
             max="1"
@@ -141,6 +144,8 @@ const Player = ({
             step="0.01"
             type="range"
           />
+          </label>
+          
         )}
       </div>
     </div>
