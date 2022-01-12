@@ -32,7 +32,7 @@ const LibrarySong = ({
       onClick={songSelectHandler}
       className={`library-song ${song.active ? "selected" : ""}`}
     >
-      <img alt={song.name} src={song.cover} width="512" height="512" />
+      <img alt={song.name} src={song.cover} />
       <div className="song-description">
         <h3>{song.name}</h3>
         <h4>{song.artist}</h4>
